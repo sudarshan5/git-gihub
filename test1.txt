@@ -1,1 +1,1 @@
-This is text1 file.
+merge text 1 file
