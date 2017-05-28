@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is text 3 file.
+=======
+This is a sample text file for testing
+>>>>>>> new_branch2

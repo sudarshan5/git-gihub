@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is text 2 file.
+=======
+sample text file
+>>>>>>> new_branch2
