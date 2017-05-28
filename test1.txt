@@ -1,1 +1,1 @@
-merge text 1 file
+sample 1 file
